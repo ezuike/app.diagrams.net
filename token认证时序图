@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-08T08:18:06.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="BAcmV5DjPVlJLqvnKfOk" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-08T08:20:16.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="P044k410tJC5CdfgYFxo" version="13.0.9" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2046" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4mfyA5fmg52AFw9SE3v-64" value="响应：operator" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G4mfyA5fmg52AFw9SE3v-50" edge="1">
+        <mxCell id="G4mfyA5fmg52AFw9SE3v-64" value="响应：operator和token解析结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="G4mfyA5fmg52AFw9SE3v-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="630" as="sourcePoint" />
             <mxPoint x="450" y="640" as="targetPoint" />
@@ -183,7 +183,7 @@
         <mxCell id="fKfK-9bouZ_gyOK-0FWv-3" value="2.切换身份／刷新token流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-200" y="340" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fKfK-9bouZ_gyOK-0FWv-4" value="3.token认证流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="fKfK-9bouZ_gyOK-0FWv-4" value="3.restful接口token认证流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-200" y="450" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
