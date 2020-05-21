@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-21T12:23:31.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8zZZEq9qSSByeO26P4sL" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-21T12:26:06.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="KAYqKzDBEQmAaATMiy_A" version="13.0.9" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2046" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
             <mxPoint x="-690" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-9" value="GET ／token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gw3yIVh5qiLn7DtVPcMW-4">
+        <mxCell id="gw3yIVh5qiLn7DtVPcMW-9" value="POST /xxx/token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gw3yIVh5qiLn7DtVPcMW-4">
           <mxGeometry x="-0.0081" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
