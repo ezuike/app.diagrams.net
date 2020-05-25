@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T07:38:48.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="xwQlvVWz5e1ssSSDSmum" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-25T09:15:28.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="I9CPnCMFQzMoMazpD-NO" version="13.1.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2526" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="gw3yIVh5qiLn7DtVPcMW-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="65" y="100" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-8" value="点击访问扶贫平台地址" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-2" target="gw3yIVh5qiLn7DtVPcMW-7" edge="1">
+        <mxCell id="gw3yIVh5qiLn7DtVPcMW-8" value="点击访问扶贫系统的按钮" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-2" target="gw3yIVh5qiLn7DtVPcMW-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="80" as="sourcePoint" />
             <Array as="points">
@@ -33,40 +33,40 @@
         <mxCell id="gw3yIVh5qiLn7DtVPcMW-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-4" vertex="1">
           <mxGeometry x="55" y="200" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-4" vertex="1">
-          <mxGeometry x="65" y="365" width="10" height="15" as="geometry" />
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="65" y="260" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-41" value="校验和解析token" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-4" target="gw3yIVh5qiLn7DtVPcMW-40" edge="1">
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-2" value="获取公钥，校验和解析token" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="Rv_Db56PNStN8c-1A5bK-1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="345" as="sourcePoint" />
+            <mxPoint x="70" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="345" />
+              <mxPoint x="95" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-4" vertex="1">
-          <mxGeometry x="65" y="420" width="10" height="20" as="geometry" />
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="65" y="335" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-43" value="查询账号绑定关系，并登录政采云系统" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-4" target="gw3yIVh5qiLn7DtVPcMW-42" edge="1">
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-4" value="通过token中的手机号查询账号信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="Rv_Db56PNStN8c-1A5bK-3" parent="7baba1c4bc27f4b0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="400" as="sourcePoint" />
+            <mxPoint x="70" y="315" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="400" />
+              <mxPoint x="95" y="315" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VWQkz8JAb3UbFs17n983-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-4">
-          <mxGeometry x="65" y="270" width="10" height="20" as="geometry" />
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="65" y="410" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VWQkz8JAb3UbFs17n983-4" value="通过appKey查询配置信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="VWQkz8JAb3UbFs17n983-3" parent="7baba1c4bc27f4b0-4">
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-8" value="设置登录状态" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="Rv_Db56PNStN8c-1A5bK-7" parent="7baba1c4bc27f4b0-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="250" as="sourcePoint" />
+            <mxPoint x="70" y="390" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="95" y="250" />
+              <mxPoint x="95" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-8" value="政采云服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-8" value="政采云server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-760" y="80" width="120" height="580" as="geometry" />
         </mxCell>
         <mxCell id="gw3yIVh5qiLn7DtVPcMW-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-8" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="gw3yIVh5qiLn7DtVPcMW-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="65" y="180" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gw3yIVh5qiLn7DtVPcMW-32" value="生成JWT token" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-8" target="gw3yIVh5qiLn7DtVPcMW-31" edge="1">
+        <mxCell id="gw3yIVh5qiLn7DtVPcMW-32" value="生成JWT token（包含手机号）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-8" target="gw3yIVh5qiLn7DtVPcMW-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="160" as="sourcePoint" />
             <Array as="points">
@@ -111,6 +111,9 @@
             <mxPoint x="-260" y="420" as="sourcePoint" />
             <mxPoint x="-180" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-9" value="body参数：&lt;br&gt;&lt;ul&gt;&lt;li&gt;token：令牌字符串&lt;/li&gt;&lt;li&gt;target：用户需要访问的目标链接地址&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="350" width="150" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
