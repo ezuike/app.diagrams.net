@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T08:46:59.490Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="ppG8apreC1_m1Yi0yDD_" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-23T08:47:14.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="-xS52tLi0SKrnKlYPLf1" version="13.3.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2046" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
             <mxPoint x="-180" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rv_Db56PNStN8c-1A5bK-9" value="body参数：&lt;br&gt;&lt;ul&gt;&lt;li&gt;token：令牌字符串&lt;/li&gt;&lt;li&gt;redirect_uri：用户需要访问的目标链接地址&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="350" width="150" height="105" as="geometry" />
+        <mxCell id="Rv_Db56PNStN8c-1A5bK-9" value="body参数：&lt;br&gt;&lt;ul&gt;&lt;li&gt;token：令牌字符串&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="350" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
