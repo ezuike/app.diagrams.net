@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T07:13:37.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ScXEVluD2zD-dg685z5T" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T07:22:42.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2KoLimZ2Bg07i5h2Blc9" version="13.4.5" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2699.5" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="laEpJXRLBC_wss0WRm2Q-15" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px&quot;&gt;认证中心&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;控制和维护认证中心的认证状态&lt;/li&gt;&lt;li&gt;token认证／session认证&lt;/li&gt;&lt;li&gt;开放认证&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="662.5" width="210" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="laEpJXRLBC_wss0WRm2Q-16" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户中心服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供开放认证统一的token生成和解析服务&lt;/li&gt;&lt;li&gt;提供统一密钥的存储机制和服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="laEpJXRLBC_wss0WRm2Q-16" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户中心服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供认证统一的token生成和解析服务&lt;/li&gt;&lt;li&gt;提供统一的认证平台配置服务，包括统一密钥的配置和读取服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="412.5" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="laEpJXRLBC_wss0WRm2Q-18" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户内部API&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;为用户中心提供内部使用的dubbo 服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
@@ -53,7 +53,7 @@
             <mxPoint x="780" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laEpJXRLBC_wss0WRm2Q-22" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;权限服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供token生成接口&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="laEpJXRLBC_wss0WRm2Q-22" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;权限服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供生成临时授信token接口&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="182.5" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="laEpJXRLBC_wss0WRm2Q-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;web-user&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;web server&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ccn.gov.zcy.paas.web.controller.authentication&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
