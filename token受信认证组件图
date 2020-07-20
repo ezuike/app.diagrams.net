@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T09:11:33.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="2Uwfj-yloncMoZ5QzGcI" version="13.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T03:25:52.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="X_o8m_ikQ7aa7xI-CfMC" version="13.4.5" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2699.5" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
             <mxPoint x="340" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="laEpJXRLBC_wss0WRm2Q-15" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px&quot;&gt;认证中心&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;控制和维护认证中心的认证状态&lt;/li&gt;&lt;li&gt;token认证／session认证&lt;/li&gt;&lt;li&gt;开放认证&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="laEpJXRLBC_wss0WRm2Q-15" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 16px&quot;&gt;认证中心&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;授信token认证&lt;/li&gt;&lt;li&gt;管理和维护认证中心的认证状态&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="662.5" width="210" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="laEpJXRLBC_wss0WRm2Q-16" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户中心服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供认证统一的token生成和解析服务&lt;/li&gt;&lt;li&gt;提供统一的认证平台配置服务，包括统一密钥的配置和读取服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="laEpJXRLBC_wss0WRm2Q-16" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户中心服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供统一授信token编解码服务&lt;/li&gt;&lt;li&gt;提供统一的认证平台配置服务，包括统一密钥的配置和读取服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="412.5" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="laEpJXRLBC_wss0WRm2Q-18" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户内部API&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;为用户中心提供内部使用的dubbo 服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
