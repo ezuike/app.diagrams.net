@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-13T08:30:04.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ejFJUx2LaKv1gGM6ioEi" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-13T08:31:39.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="VmwK9Tqy2V-KoHynmqS0" version="13.4.8" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2526" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -111,10 +111,15 @@
             <mxPoint x="-180" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emDf_zl1jLeX5OmVkz0R-18" value="开放平台" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" target="L4weiptPdlw4aMQrWTji-1" edge="1" source="emDf_zl1jLeX5OmVkz0R-16">
+        <mxCell id="emDf_zl1jLeX5OmVkz0R-18" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" target="L4weiptPdlw4aMQrWTji-1" edge="1" source="emDf_zl1jLeX5OmVkz0R-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-630" y="230" as="sourcePoint" />
             <mxPoint x="330" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L4weiptPdlw4aMQrWTji-7" value="(开放平台)POST /zcy.user.authentication.encode.authentication.token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emDf_zl1jLeX5OmVkz0R-18">
+          <mxGeometry x="-0.0301" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L4weiptPdlw4aMQrWTji-2" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.9;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.888;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="L4weiptPdlw4aMQrWTji-1" target="emDf_zl1jLeX5OmVkz0R-16">
