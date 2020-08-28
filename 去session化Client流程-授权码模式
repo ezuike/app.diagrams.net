@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T12:26:05.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="xUum_X6yO-Jr2gra9aMJ" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T03:23:45.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="b29r5t-bLsAjc48T1Jv-" version="13.6.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,10 +10,10 @@
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="55" y="80" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="60" y="120" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-2" value="校验用户名密码&lt;br&gt;并生成SSOSESSION" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="UILBXIP_0u1aq41y5dxB-1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-2" value="校验用户名密码&lt;br&gt;并生成SSOSESSION" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-2" target="UILBXIP_0u1aq41y5dxB-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="100" as="sourcePoint" />
             <Array as="points">
@@ -21,13 +21,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="55" y="440" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="60" y="480" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-19" value="验证appid/appsercet和授权码" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="UILBXIP_0u1aq41y5dxB-18" parent="7baba1c4bc27f4b0-2">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-19" value="验证appid/appsercet和授权码" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-2" target="UILBXIP_0u1aq41y5dxB-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="460" as="sourcePoint" />
             <Array as="points">
@@ -41,13 +41,13 @@
         <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="55" y="200" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="55" y="360" width="10" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="60" y="390" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-14" value="验证state" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="UILBXIP_0u1aq41y5dxB-13" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-14" value="验证state" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-3" target="UILBXIP_0u1aq41y5dxB-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="370" as="sourcePoint" />
             <Array as="points">
@@ -55,10 +55,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="60" y="560" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-30" value="access_token和refresh_token写入session" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="UILBXIP_0u1aq41y5dxB-29" parent="7baba1c4bc27f4b0-3">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-30" value="access_token和refresh_token写入cookie&lt;br&gt;同时返回有效session（兼容）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="7baba1c4bc27f4b0-3" target="UILBXIP_0u1aq41y5dxB-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="540" as="sourcePoint" />
             <Array as="points">
@@ -72,7 +72,7 @@
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="55" y="80" width="10" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-8">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="7baba1c4bc27f4b0-8" vertex="1">
           <mxGeometry x="55" y="560" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-11" value="POST /login" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.9;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
@@ -80,61 +80,61 @@
             <mxPoint x="190" y="160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-4" value="GET&amp;nbsp;/oauth/authorize" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.9;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-4" value="GET&amp;nbsp;/oauth/authorize" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.9;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="260" y="310" as="sourcePoint" />
             <mxPoint x="390" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-5" value="GET /login/sso" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.1;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-13">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-5" value="GET /login/sso" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.1;exitY=0.273;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="300" y="270" as="sourcePoint" />
             <mxPoint x="740" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-7" value="302 /login/sso" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.2;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-9">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-7" value="302 /login/sso" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.2;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="230" as="sourcePoint" />
             <mxPoint x="310" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-8" value="302 /oauth/authorize" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-9">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-8" value="302 /oauth/authorize" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-13" target="7baba1c4bc27f4b0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="300" as="sourcePoint" />
             <mxPoint x="480" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-9" value="302&amp;nbsp;/login/sso?code=urnU26&amp;amp;state=Rvp1Or" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-9">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-9" value="302&amp;nbsp;/login/sso?code=urnU26&amp;amp;state=Rvp1Or" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.1;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="400" as="sourcePoint" />
             <mxPoint x="320" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-11" value="GET /login/sso?code=urnU26&amp;amp;state=Rvp1Or" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.634;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7baba1c4bc27f4b0-9" target="UILBXIP_0u1aq41y5dxB-10">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-11" value="GET /login/sso?code=urnU26&amp;amp;state=Rvp1Or" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.634;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="UILBXIP_0u1aq41y5dxB-10" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="320" y="440" as="sourcePoint" />
             <mxPoint x="400" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-15" value="POST /oauth/token" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.247;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UILBXIP_0u1aq41y5dxB-10" target="UILBXIP_0u1aq41y5dxB-12">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-15" value="POST /oauth/token" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.247;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UILBXIP_0u1aq41y5dxB-10" target="UILBXIP_0u1aq41y5dxB-12" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="640" y="510" as="sourcePoint" />
             <mxPoint x="720" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-20" value="200 OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=-0.1;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UILBXIP_0u1aq41y5dxB-12" target="UILBXIP_0u1aq41y5dxB-10">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-20" value="200 OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=-0.1;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.1;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UILBXIP_0u1aq41y5dxB-12" target="UILBXIP_0u1aq41y5dxB-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="599" as="sourcePoint" />
             <mxPoint x="520" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-23" value="302 /login" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.9;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.2;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UILBXIP_0u1aq41y5dxB-10" target="UILBXIP_0u1aq41y5dxB-22">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-23" value="302 /login" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.9;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.2;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UILBXIP_0u1aq41y5dxB-10" target="UILBXIP_0u1aq41y5dxB-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="640" as="sourcePoint" />
             <mxPoint x="390" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UILBXIP_0u1aq41y5dxB-26" value="GET /login" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UILBXIP_0u1aq41y5dxB-22" target="UILBXIP_0u1aq41y5dxB-10">
+        <mxCell id="UILBXIP_0u1aq41y5dxB-26" value="GET /login" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UILBXIP_0u1aq41y5dxB-22" target="UILBXIP_0u1aq41y5dxB-10" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="280" y="720" as="sourcePoint" />
             <mxPoint x="360" y="720" as="targetPoint" />
