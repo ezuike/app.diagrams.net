@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T09:32:07.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="9peurItHwDZLA9AN2cxK" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T09:40:22.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="s3xL1gVQ_Gh0-Gw6Wi7u" version="13.6.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2288" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7baba1c4bc27f4b0-3" value="政采系统&lt;br&gt;.zcygov.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-3" value="政采系统&lt;br&gt;.zcygov.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="220" y="80" width="120" height="800" as="geometry" />
         </mxCell>
         <mxCell id="SQ9jV-q-HOF9gnmMTTLW-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-3">
@@ -13,7 +13,7 @@
         <mxCell id="SQ9jV-q-HOF9gnmMTTLW-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-3">
           <mxGeometry x="60" y="520" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-55" value="生成政采局部SESSION" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="SQ9jV-q-HOF9gnmMTTLW-54" parent="7baba1c4bc27f4b0-3" source="SQ9jV-q-HOF9gnmMTTLW-47">
+        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-55" value="生成政采系统&lt;br&gt;局部SESSION" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="SQ9jV-q-HOF9gnmMTTLW-54" parent="7baba1c4bc27f4b0-3" source="SQ9jV-q-HOF9gnmMTTLW-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="530" as="sourcePoint" />
             <Array as="points">
@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-2" value="web-uaa&lt;br&gt;login.zcygov.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-2" value="web-uaa&lt;br&gt;login.zcygov.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="120" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-4" value="企采系统&lt;br&gt;.zhengcaiyun.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-4" value="企采系统&lt;br&gt;.zhengcaiyun.cn" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="660" y="77.5" width="120" height="1092.5" as="geometry" />
         </mxCell>
         <mxCell id="SQ9jV-q-HOF9gnmMTTLW-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7baba1c4bc27f4b0-4">
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-8" value="browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="7baba1c4bc27f4b0-8" value="browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-60" y="80" width="120" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-8" vertex="1">
@@ -201,7 +201,7 @@
             <mxPoint x="50" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-66" value="GET /" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.783;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.05;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SQ9jV-q-HOF9gnmMTTLW-64" target="SQ9jV-q-HOF9gnmMTTLW-65">
+        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-66" value="GET /xxx/xx" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.783;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.05;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SQ9jV-q-HOF9gnmMTTLW-64" target="SQ9jV-q-HOF9gnmMTTLW-65">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="190" y="680" as="sourcePoint" />
             <mxPoint x="270" y="680" as="targetPoint" />
@@ -284,11 +284,14 @@
             <mxPoint x="620" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-96" value="ajax请求后端识别未登录后返回401，前端识别到401会触发client登录" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="730" width="130" height="60" as="geometry" />
+        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-97" value="第一次登录无全局会话直接重定向到登录页面" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-97" value="ajax请求鉴权失败后会返回401，前端识别到401会触发client登录" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-99" value="这里由于已经生成了全局会话，直接发放授权码" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="880" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SQ9jV-q-HOF9gnmMTTLW-101" value="&lt;span&gt;ajax请求后端识别未登录后返回401，前端识别到401会触发client登录&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="710" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
