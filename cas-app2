@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T03:11:38.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ZhpiW1Eym_V8nmilXEik" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-16T03:16:32.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="RWPH-DmdhFNBlo94JryT" version="13.7.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="926" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R_0EkFd-4ExDA0LHhCuy-1" value="CAS-Server&lt;br&gt;login.cas.com" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="120" height="580" as="geometry" />
+          <mxGeometry x="620" y="80" width="120" height="560" as="geometry" />
         </mxCell>
         <mxCell id="R_0EkFd-4ExDA0LHhCuy-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="R_0EkFd-4ExDA0LHhCuy-1">
           <mxGeometry x="55" y="160" width="10" height="80" as="geometry" />
@@ -36,10 +36,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_0EkFd-4ExDA0LHhCuy-10" value="Browser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="80" width="140" height="480" as="geometry" />
+          <mxGeometry x="20" y="80" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="R_0EkFd-4ExDA0LHhCuy-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="R_0EkFd-4ExDA0LHhCuy-10">
-          <mxGeometry x="65" y="60" width="10" height="380" as="geometry" />
+          <mxGeometry x="55" y="60" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="R_0EkFd-4ExDA0LHhCuy-12" value="CAS-Client2&lt;br&gt;www.client2.com" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="120" height="480" as="geometry" />
@@ -109,6 +109,9 @@
             <mxPoint x="650" y="639" as="sourcePoint" />
             <mxPoint x="120" y="639" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R_0EkFd-4ExDA0LHhCuy-27" value="免去二次登录" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
