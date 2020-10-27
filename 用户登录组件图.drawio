@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2020-10-27T12:23:43.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bfeKFHwxKUAteKia_VOO" version="13.8.2" type="github">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="2699.5" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;user-server&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;dubbo server&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.user.service&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="E6D2p6BR3iPtvVAJHZEQ-1" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;user-api&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;jar&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.user.service&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="E6D2p6BR3iPtvVAJHZEQ-5" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-9" value="" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="E6D2p6BR3iPtvVAJHZEQ-1" target="E6D2p6BR3iPtvVAJHZEQ-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="550" as="sourcePoint" />
+            <mxPoint x="240" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-10" value="" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E6D2p6BR3iPtvVAJHZEQ-19" target="E6D2p6BR3iPtvVAJHZEQ-5" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="248" as="sourcePoint" />
+            <mxPoint x="90" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-13" value="RPC" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="E6D2p6BR3iPtvVAJHZEQ-19" target="E6D2p6BR3iPtvVAJHZEQ-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="440" y="292.5" as="sourcePoint" />
+            <mxPoint x="340" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-15" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供基础的用户组织读写服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="470" width="210" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-16" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户组织内部服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;为用户中心内部提供机构组织读写服务&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#cc0000&quot;&gt;提供认证相关配置服务&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="900" y="200" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-19" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;web-uaa&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;dubbo server&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;com.dtdream.vanyar.web.uaa.login&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-20" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="E6D2p6BR3iPtvVAJHZEQ-19" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-22" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户组织外部接口&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供通用的机构组织读写服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-180" y="212.5" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;user-internal-api&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;jar&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.user.service&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.config.service&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="200" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-29" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="E6D2p6BR3iPtvVAJHZEQ-28" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-30" value="" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="E6D2p6BR3iPtvVAJHZEQ-19" target="E6D2p6BR3iPtvVAJHZEQ-28" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6D2p6BR3iPtvVAJHZEQ-31" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="E6D2p6BR3iPtvVAJHZEQ-1" target="E6D2p6BR3iPtvVAJHZEQ-28" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
