@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T11:52:09.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-aVEQGMeRxLcZuQgG2VX" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T12:01:14.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="YI6NQqHMiVzoXw8wDnDk" version="14.1.2" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2276" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,22 +26,16 @@
             <mxPoint x="240" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwtE8ceqLQbf1MhjGsIx-6" value="" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YwtE8ceqLQbf1MhjGsIx-10" target="YwtE8ceqLQbf1MhjGsIx-3">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="320" y="248" as="sourcePoint" />
-            <mxPoint x="90" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YwtE8ceqLQbf1MhjGsIx-7" value="RPC" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YwtE8ceqLQbf1MhjGsIx-10" target="YwtE8ceqLQbf1MhjGsIx-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="292.5" as="sourcePoint" />
             <mxPoint x="340" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwtE8ceqLQbf1MhjGsIx-8" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供基础的用户组织读写服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YwtE8ceqLQbf1MhjGsIx-8" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;权限服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;实现统一的认证鉴权&lt;/span&gt;&lt;/li&gt;&lt;li&gt;提供权限管理&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="210" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YwtE8ceqLQbf1MhjGsIx-9" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户组织内部服务&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;为用户中心内部提供机构组织读写服务&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#cc0000&quot;&gt;提供认证相关配置服务&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YwtE8ceqLQbf1MhjGsIx-9" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;认证鉴权服务api&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#cc0000&quot;&gt;提供认证鉴权相关配置服务接口&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="200" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="YwtE8ceqLQbf1MhjGsIx-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;web-auth&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;dubbo server&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;com.dtdream.vanyar.web.uaa.login&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
@@ -52,7 +46,7 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YwtE8ceqLQbf1MhjGsIx-12" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户组织外部接口&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供通用的机构组织读写服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YwtE8ceqLQbf1MhjGsIx-12" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;用户组织外部接口&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;提供通用用户读服务&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="212.5" width="210" height="65" as="geometry" />
         </mxCell>
         <mxCell id="YwtE8ceqLQbf1MhjGsIx-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;auth-api&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;jar&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.user.service&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;cn.gov.zcy.paas.config.service&lt;br&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
