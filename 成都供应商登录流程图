@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:06:55.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="32Hcq6THE_yYGCwYYmko" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:15:23.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="-WgbiGAzK-SWuuAHh-3K" version="14.2.9" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1426" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="396" dy="151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,7 +42,7 @@
         <mxCell id="c6mHNF5YohJk7hvhEdBb-4" value="验证临时token" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="c6mHNF5YohJk7hvhEdBb-5" value="返回政采云登录页面并提示" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="c6mHNF5YohJk7hvhEdBb-5" value="返回错误提示页面" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c6mHNF5YohJk7hvhEdBb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="c6mHNF5YohJk7hvhEdBb-8" target="c6mHNF5YohJk7hvhEdBb-10">
