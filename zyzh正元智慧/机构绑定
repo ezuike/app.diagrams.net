@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T09:50:58.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="RhyYdLPcHYwK_MBGHwO1" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T09:51:26.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="urDFSVw0pGKXIUH8U11V" version="14.4.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -41,16 +41,16 @@
         <mxCell id="FNd6kZlcEDZ4-3bdqI0X-9" value="政采云后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
+        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
           <mxGeometry x="55" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
+        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
           <mxGeometry x="55" y="280" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
+        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
           <mxGeometry x="55" y="480" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
+        <mxCell id="FNd6kZlcEDZ4-3bdqI0X-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="FNd6kZlcEDZ4-3bdqI0X-9">
           <mxGeometry x="60" y="520" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FNd6kZlcEDZ4-3bdqI0X-32" value="绑定机构关系" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="FNd6kZlcEDZ4-3bdqI0X-31" parent="FNd6kZlcEDZ4-3bdqI0X-9">
