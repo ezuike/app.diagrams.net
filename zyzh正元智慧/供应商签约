@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T12:18:27.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="6YWXjQvIl75NEdo7Ki0C" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T12:19:27.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="JaZLKv1Y9qrXX3DJwKmi" version="14.4.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="946" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="ko9MpG-4XteK-ydDyCrd-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ko9MpG-4XteK-ydDyCrd-1">
           <mxGeometry x="60" y="380" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ko9MpG-4XteK-ydDyCrd-39" value="选择供应商" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ko9MpG-4XteK-ydDyCrd-38" parent="ko9MpG-4XteK-ydDyCrd-1">
+        <mxCell id="ko9MpG-4XteK-ydDyCrd-39" value="选择店铺" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="ko9MpG-4XteK-ydDyCrd-38" parent="ko9MpG-4XteK-ydDyCrd-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="360" as="sourcePoint" />
             <Array as="points">
@@ -94,13 +94,13 @@
             <mxPoint x="380" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ko9MpG-4XteK-ydDyCrd-23" value="供应商查询" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko9MpG-4XteK-ydDyCrd-5" target="ko9MpG-4XteK-ydDyCrd-11">
+        <mxCell id="ko9MpG-4XteK-ydDyCrd-23" value="供应商店铺查询" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ko9MpG-4XteK-ydDyCrd-5" target="ko9MpG-4XteK-ydDyCrd-11">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="210" y="360" as="sourcePoint" />
             <mxPoint x="370" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ko9MpG-4XteK-ydDyCrd-26" value="供应商" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ko9MpG-4XteK-ydDyCrd-11" target="ko9MpG-4XteK-ydDyCrd-5">
+        <mxCell id="ko9MpG-4XteK-ydDyCrd-26" value="供应商店铺" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ko9MpG-4XteK-ydDyCrd-11" target="ko9MpG-4XteK-ydDyCrd-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="440" as="sourcePoint" />
             <mxPoint x="330" y="440" as="targetPoint" />
