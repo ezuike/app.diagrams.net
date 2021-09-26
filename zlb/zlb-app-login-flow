@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T07:51:37.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="7T26d9yhJPg81vQ-xcRs" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T08:49:01.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="xLdtzQCCEwYxaVLZiJTZ" version="15.2.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="946" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,19 +10,19 @@
         <mxCell id="MmNui96-rECDZ3bb0Wbd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-3" target="MmNui96-rECDZ3bb0Wbd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-3" value="账号登录：手机号/密码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-3" value="短信登录：手机号，验证码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-4" target="MmNui96-rECDZ3bb0Wbd-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-4" value="验证码登录：手机号/验证码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-4" value="账号密码：账号，密码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-6" target="MmNui96-rECDZ3bb0Wbd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-16" value="手机短信登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-14">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-16" value="账号密码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-14">
           <mxGeometry x="-0.3667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
         <mxCell id="MmNui96-rECDZ3bb0Wbd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-6" target="MmNui96-rECDZ3bb0Wbd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-18" value="账号密码登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-17">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-18" value="短信登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-17">
           <mxGeometry x="-0.1875" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -51,8 +51,8 @@
         <mxCell id="MmNui96-rECDZ3bb0Wbd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-7" target="MmNui96-rECDZ3bb0Wbd-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="220" />
-              <mxPoint x="200" y="580" />
+              <mxPoint x="160" y="220" />
+              <mxPoint x="160" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-7" value="校验短信验证码" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="MmNui96-rECDZ3bb0Wbd-10">
           <mxGeometry relative="1" as="geometry">
@@ -97,11 +97,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-20" target="MmNui96-rECDZ3bb0Wbd-29">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-20" target="MmNui96-rECDZ3bb0Wbd-61">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="380" />
-              <mxPoint x="780" y="580" />
+              <mxPoint x="780" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,19 +114,19 @@
         <mxCell id="MmNui96-rECDZ3bb0Wbd-20" value="账号状态" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-21" target="MmNui96-rECDZ3bb0Wbd-37">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-21" target="MmNui96-rECDZ3bb0Wbd-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-49" value="正确" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-48">
-          <mxGeometry x="-0.32" relative="1" as="geometry">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-64" value="正确" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-63">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-21" target="MmNui96-rECDZ3bb0Wbd-29">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-21" target="MmNui96-rECDZ3bb0Wbd-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-51" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-50">
-          <mxGeometry x="-0.7143" y="1" relative="1" as="geometry">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-69" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MmNui96-rECDZ3bb0Wbd-68">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -142,12 +143,13 @@
           <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-29" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-32" target="MmNui96-rECDZ3bb0Wbd-29">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-32" target="MmNui96-rECDZ3bb0Wbd-61">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="580" />
+              <mxPoint x="780" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,8 +167,8 @@
         <mxCell id="MmNui96-rECDZ3bb0Wbd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-36" target="MmNui96-rECDZ3bb0Wbd-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="300" />
-              <mxPoint x="200" y="580" />
+              <mxPoint x="160" y="300" />
+              <mxPoint x="160" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -176,24 +178,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-36" value="账号是否存在？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-37" target="MmNui96-rECDZ3bb0Wbd-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-37" value="签发token" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MmNui96-rECDZ3bb0Wbd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-53" target="MmNui96-rECDZ3bb0Wbd-29">
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-53" target="MmNui96-rECDZ3bb0Wbd-61">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="670" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="220" />
-              <mxPoint x="880" y="580" />
+              <mxPoint x="880" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MmNui96-rECDZ3bb0Wbd-53" value="提示账号密码错误" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-61" target="MmNui96-rECDZ3bb0Wbd-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-61" value="失败次数+1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MmNui96-rECDZ3bb0Wbd-62" target="MmNui96-rECDZ3bb0Wbd-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmNui96-rECDZ3bb0Wbd-62" value="失败次数清零" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
